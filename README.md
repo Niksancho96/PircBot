@@ -1,4 +1,14 @@
-PircBot
+PircBot simple IRC bot
 =======
 
-This is just a basic setup for PircBot. Pirc bot is a framework for making IRC bots in Java
+What is PircBot?
+=======
+PircBot is a library for writing IRC bots in Java
+
+Where can i get PircBot?
+=======
+http://www.jibble.org/pircbot.php
+
+What is done in the version you uploaded?
+=======
+Well there are some basic set-ups for IRC bot. You can change them any time!
